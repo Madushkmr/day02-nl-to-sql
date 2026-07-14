@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/
+tests/test_business.db
+.pytest_cache/
