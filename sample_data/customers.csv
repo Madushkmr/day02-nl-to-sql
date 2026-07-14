@@ -1,0 +1,11 @@
+id,name,region,segment
+1,Acme Corp,North,Enterprise
+2,Globex Inc,South,SMB
+3,Initech,East,Enterprise
+4,Umbrella Co,West,SMB
+5,Soylent LLC,North,Enterprise
+6,Hooli,South,SMB
+7,Stark Industries,East,Enterprise
+8,Wayne Enterprises,West,Enterprise
+9,Wonka Foods,North,SMB
+10,Aperture Labs,South,Enterprise
